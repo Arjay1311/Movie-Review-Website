@@ -3,8 +3,8 @@
 ---
 
 ## **Description**
-A **Web Application** that allows users to **log in**, **rate movies**, and **write reviews/comments**.\n
-The platform provides an intuitive interface for discovering movies and analyzing public opinions through ratings and reviews.\n
+A **Web Application** that allows users to **log in**, **rate movies**, and **write reviews/comments**..
+The platform provides an intuitive interface for discovering movies and analyzing public opinions through ratings and reviews..
 The application supports **searching, filtering, and sorting** movies based on ratings and user feedback, enabling a smooth and engaging user experience.
 
 ---
