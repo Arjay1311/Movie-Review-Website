@@ -25,6 +25,5 @@ The application supports **searching, filtering, and sorting** movies based on r
 - **Frontend:** HTML, CSS
 - **Backend:** Node.js  
 - **Database:** MongoDB  
-- **Deployment:** Vercel  
 
 ---
