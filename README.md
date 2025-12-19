@@ -13,8 +13,6 @@ The application supports **searching, filtering, and sorting** movies based on r
 - **User authentication** for secure access.  
 - **Movie rating and review system** with comments.  
 - **Search, filter, and sort** movies based on ratings and reviews.  
-- **RESTful APIs** for seamless data exchange between frontend and backend.  
-- **Responsive UI** for an enhanced user experience.  
 
 ---
 
